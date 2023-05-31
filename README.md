@@ -1,6 +1,6 @@
 - Hi, I’m @melipi
-- I’m a Fullstack Web Developer
-- I’m looking to collaborate on exciting open source projects and fun challenges
+- I’m a Fullstack Web Developer and Visual Artist
+- I’m always looking to collaborate on exciting open source projects and fun challenges
 - Find my work on codepen.io/melipi for frontend designs and creative coding!
 
 <!---
