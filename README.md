@@ -1,9 +1,7 @@
-- Hi, I’m @melipi
-- I’m a Fullstack Web Developer and Visual Artist
-- I’m always looking to collaborate on exciting open source projects and fun challenges
-- Find my work on codepen.io/melipi for frontend designs and creative coding!
+<h1 align="center">Hello, I'm Mel! 😊</h1>
+<h3 align="center">An artist, graphic designer and frontend developer <br>from Miami, FL currently living in Apex, NC.</h3>
 
-<!---
-melipi/melipi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<hr>
+<p align="left">You can find my front end designs and creative coding projects on <a href="https://codepen.io/melipi" target="blank">Codepen</a>.</p>
+
+<p align="left">My newest design work can be found on Behance on <a href="https://behance.net/melipi" target="blank">Behance</a>.</p>
