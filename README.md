@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Mel! 😊</h1>
-<h3 align="center">I'm an artist, graphic designer and frontend developer <br>from Miami, FL currently living in the Raleigh, NC area.</h3>
+<h3 align="center">I'm an artist, graphic designer and frontend developer <br>from Miami, FL currently living in the Raleigh-Durham, NC area.</h3>
 
 <hr>
 <p align="left">You can find my front end designs and creative coding projects on <a href="https://codepen.io/melipi" target="blank">Codepen</a>.</p>
